@@ -1,2 +1,0 @@
-# Triple-Point
-Pardot
